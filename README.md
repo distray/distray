@@ -3,9 +3,9 @@
 Hello! I'm Distray 👋
 
 ⚖️ I am the CEO and Founder of NavaLabs, a very successful development team that creates, operates and maintains projects & serices.
-📎 https://mite.host
-📎 https://blueific.com
-📎 https://jarsa.org
+- 📎 https://mite.host
+- 📎 https://blueific.com
+- 📎 https://jarsa.org
 
 👨‍💻 Information About Me
 
