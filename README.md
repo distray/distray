@@ -9,15 +9,7 @@ Hello! I'm Distray 👋
 
 👨‍💻 Information About Me
 
-- I am a FrontEnd Primary Developer with the ability to create and scale services such as APIs, Bot Systems, Websites and more. I can do some pretty cool stuff:
-- Create websites
-- Create dashboards 
-- Create proxies & bungees.
-- Create Discord Bots
-- Create General and Discord APIs
-- Create MC Plugins
-- Create frameworks
-- And tons more.
+- I am a FrontEnd Primary Developer with the ability to create and scale services such as APIs, Bot Systems, Websites and more. I can do some pretty cool stuff such as: Velocity/NMS, Game Development, Frameworks, Security, Dashboards and loads more.
 
 *You can contact me on Discord at distray#0001*
 
