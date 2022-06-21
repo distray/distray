@@ -17,7 +17,7 @@ Hello! I'm Distray 👋
 
 ![](https://img.shields.io/badge/Laguages-Script,JavaScript,HTML,CSS,Java.-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Intellij,VSC,Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=reportcardsmc&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=distray&show_icons=true&theme=tokyonight&locale=en&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=distray&show_icons=true&theme=radical)
 
