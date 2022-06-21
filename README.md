@@ -11,9 +11,9 @@ Hello! I'm Distray 👋
 
 - I am a FrontEnd Primary Developer with the ability to create and scale services such as APIs, Bot Systems, Websites and more. I can do some pretty cool stuff such as: Velocity/NMS, Game Development, Frameworks, Security, Dashboards and loads more.
 
-- I am a self-proclaimed expert in: Skript, HTML, CSS and JavaScript.
-- I am semi-fluent in: Lua, SQL, Java.
-- I am a beginner in: Python and PHP.
+I am a self-proclaimed expert in: Skript, HTML, CSS and JavaScript.
+I am semi-fluent in: Lua, SQL, Java.
+I am a beginner in: Python and PHP.
 
 *You can contact me on Discord at distray#0001*
 
