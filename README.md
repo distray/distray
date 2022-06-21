@@ -15,7 +15,7 @@ Hello! I'm Distray 👋
 
 *Do Not DM me to Apply for NavaLabs. You can apply here - https://navalabs.net*
 
-![](https://img.shields.io/badge/Laguages-Skript, JavaScript, HTML, CSS, Lua.-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Intellij,VSC,Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laguages-Skript,JavaScript,HTML,CSS,Lua.-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Intellij,VSC,Atom-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=distray&show_icons=true&theme=radical)
 
