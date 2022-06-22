@@ -36,6 +36,10 @@
   <a href="https://www.JSON.org/" target="_blank">
     <img alt="JSON" src="https://img.shields.io/badge/JSON-%23777BB4.svg?logo=JSON&logoColor=black"/>                                                 
   </a>
+  &emsp;
+  <a href="https://www.docs.skriptlang.org/" target="_blank">
+    <img alt="Skript" src="https://img.shields.io/badge/Skript-%23777BB4.svg?logo=Skript&logoColor=yellow"/>                                                 
+  </a>
 </p>
 
 ### 👉 Frontend Development
