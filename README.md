@@ -64,6 +64,10 @@
   <a href="#" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=aqua"/>
   </a>
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?logo=vue-js5&logoColor=white">
+  </a>   
 </p>
 
  ### 👉 Software & Tools
