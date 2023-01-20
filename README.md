@@ -126,6 +126,6 @@
 ## 🙋‍♀️ Contact Me
 <p align="center">
   <a href="https://navalabs.net"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/distray"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://discord.gg/7zvWbEw9mw"><img src="https://img.icons8.com/bubbles/50/00000/discord.png" alt="Discord"/><a>
   
