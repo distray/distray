@@ -3,7 +3,7 @@
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Web+Developer;API%20Designer;Entrepreneur;Minecraft%20Developer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Sophomore in High School. My skills are vast and dependable. They also correspond to my aspiring major Computer Science. I currently run and operate several services under my organization NavaLabs.</h4>
+<h4 align="center">I am a Sophomore in High School. My skills are vast and dependable. They also correspond to my aspiring major, Computer Science. I currently run and operate several services under my organization, NavaLabs.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=distray&label=Profile%20views&color=0e75b6&style=plastic" alt="distray" /> </p>
 
