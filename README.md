@@ -38,7 +38,11 @@
   </a>
   &emsp;
   <a href="https://www.docs.skriptlang.org/" target="_blank">
-    <img alt="Skript" src="https://img.shields.io/badge/Skript-%23777BB4.svg?logo=Skript&logoColor=yellow"/>                                                 
+    <img alt="Skript" src="https://img.shields.io/badge/Skript-%23777BB4.svg?logo=Skript&logoColor=yellow"/>   
+	  
+  &emsp;
+  <a href="https://kotlinlang.org" target="_blank">
+    <img alt="Kotlin" src="https://img.shields.io/badge/KotlinLang-%23777BB4.svg?logo=Skript&logoColor=pink"/>                                                 
   </a>
 </p>
 
@@ -48,6 +52,10 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
+  &emsp; 
+  <a href="https://www.w3.org/svelte/" target="_blank"> 
+   <img alt="Svelte" src="https://img.shields.io/badge/SvelteKit%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>  
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
