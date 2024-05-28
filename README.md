@@ -1,82 +1,48 @@
-<h1 align="center">Hi , I'm Jellypack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi! I'm Jellypack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Web+Developer;API%20Designer;Entrepreneur;Minecraft%20Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Web+Designer;Computer+Science%20Student;Entrepreneur;Minecraft%20Developer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Senior in High School. My skills are vast and dependable. They also correspond to my aspiring major Computer Science. I currently run and operate several services under my organization Helixion.</h4>
+<h4 align="center">I am a Senior in High School and 1st year Computer Science Student at University. I own and work at Helixion Solutions. View more about me using the link at the footer.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=distray&label=Profile%20views&color=0e75b6&style=plastic" alt="distray" /> </p>
 
 ## 🛠️ My Skills
+  <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="ts" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="php" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="php" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg" alt="php" width="40" height="40"/>
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 
-### 👉 Languages
+- These do not include other frameworks I have recently used and some web tools. Yes, I know JSON.
 
-<p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-   <a href="https://www.lua.org" target="_blank">
-    <img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2314354C.svg?logo=lua&logoColor=purple">
-  </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23777BB4.svg?logo=TypeScript&logoColor=white"/>                                                 
-  </a>
-  &emsp;
-  <a href="https://www.sql.org/" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/MySQL-%23777BB4.svg?logo=MySQL&logoColor=white"/>                                                 
-  </a>
-  &emsp;
-  <a href="https://www.JSON.org/" target="_blank">
-    <img alt="JSON" src="https://img.shields.io/badge/JSON-%23777BB4.svg?logo=JSON&logoColor=black"/>                                                 
-  </a>
-  &emsp;
-  <a href="https://www.docs.skriptlang.org/" target="_blank">
-    <img alt="Skript" src="https://img.shields.io/badge/Skript-%23777BB4.svg?logo=Skript&logoColor=yellow"/>   
 
-  </a>
-  &emsp;
-  <a href="https://kotlinlang.org" target="_blank">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23777BB4.svg?logo=Skript&logoColor=pink"/>                                                 
-  </a>
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp; 
-  <a href="https://www.w3.org/svelte/" target="_blank"> 
-   <img alt="Svelte" src="https://img.shields.io/badge/SvelteKit%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>  
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://sass-lang.com/" target="_blank">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%231572B6.svg?logo=sass&logoColor=pink">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=yellow"/>
-  </a>
-   &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=aqua"/>
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?logo=vue-js5&logoColor=white">
-  </a>   
-</p>
 
- ### 👉 Software & Tools
- 
+
+
+
+<br>
+</p>       
+
+## 👉 Software & Tools
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -101,36 +67,19 @@
   &emsp;
     <a href"#"><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine-FE7A16?logo=Unreal-Engine&logoColor=grey"></a>
 
-## 📊 Github Stats (Expand to View) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distray\&layout=compact)
 
 
-<details> 
-  <summary><b>💻 Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/distray/github-readme-stats"><img alt="Distray's Github Stats" src="https://github-readme-stats.vercel.app/api?username=distray&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=distray&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/distray"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=distray&custom_title=Distray's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-## 🙋‍♀️ Contact Me
+<hr>
 <p align="center">
-  <a href="https://navalabs.net"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="https://github.com/distray"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://discord.gg/7zvWbEw9mw"><img src="https://img.icons8.com/bubbles/50/00000/discord.png" alt="Discord"/><a>
+   <i>Solutions require an individuals mind. Not a machine.</i>
+   <br>
+   <i>Inventing is key to understanding</i>
+   <br>
+<br>
+	
+<p align="center">
+  <a href="https://jellypack.me/">Jellypack.me</a>
   
