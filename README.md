@@ -3,7 +3,7 @@
   <a href="https://github.com/distray/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Web+Designer;Computer+Science%20Student;Entrepreneur;Minecraft%20Developer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Senior in High School and 1st year Computer Science Student at University. I own and work at Helixion Solutions. View more about me using the link at the footer.</h4>
+<h4 align="center">I am a Senior in High School, a Computer Science Student, a Composer, and a Future Chemical Engineer. I own, work, and research @ Helixion/</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=distray&label=Profile%20views&color=0e75b6&style=plastic" alt="distray" /> </p>
 
